@@ -1,6 +1,6 @@
 # Suno Click Noise Partial Fix Skill
 
-Created by OKIHIRO — AI自動化ワークフローを100個以上開発・運用しています。
+Created by OKIHIRO — AI自動化ワークフローを130個以上開発・運用しています。
 
 Suno等で生成した音源の冒頭クリックノイズを、FFmpegの `adeclick` とクロスフェードで局所処理するための汎用スキルです。
 
